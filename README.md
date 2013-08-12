@@ -14,7 +14,8 @@ Run the nltk downloader (if anyone knows a better way, let me know):
 
     python -c 'import nltk; nltk.download()'
 
-Under the "Corpa" section, download the module called `cmudict`.
+Under the "Corpa" section, download the module called `cmudict`. After it is
+done downloading, you can close the downloader.
 
 Vim-flow requires [Vimpy][vi]. If it isn't installed yet, you should install
 it. Vimpy makes writing Python plugins in Vim super simple, and there are
