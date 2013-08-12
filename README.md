@@ -22,7 +22,7 @@ plugins that you'll find using it. For instance, this one.
 
 You can install both Vimpy and vim-flow as you normally would. Either by
 manually placing the files in your Vim runtime path (IE, ~/.vim) or by adding
-it to your bundles directory. [Vundle][vu] uses can install them both with the
+it to your bundles directory. [Vundle][vu] users can install them both with the
 following Bundle statements:
 
     Bundle "LimpidTech/Vimpy"
